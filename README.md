@@ -1,57 +1,31 @@
-# 🛡️ PRODIGY_CYBERSECURITY_04
+# PRODIGY_CYB_04 - GUI-Based Keylogger
 
-## 🔐 Task-04: Simple Keylogger – Cybersecurity Internship
+## 🔐 Description:
+This project is a simple GUI-based Keylogger developed using Python as part of my internship at *Prodigy InfoTech*.  
+It captures user keystrokes and logs them to a .txt file stored on the Desktop. The GUI lets you start and stop logging with just one click.
 
----
+> ⚠️ This tool is strictly for educational and ethical use only.
 
-### 📌 Task Objective
-Create a **basic keylogger program** that:
-
-- Records and logs keystrokes
-- Saves them to a text file
-
-This task helps understand **input monitoring** concepts used in cybersecurity research and ethical hacking.
-
----
-
-### 🧠 How It Works
-1. Uses **pynput library** to listen to keyboard events.  
-2. Logs:
-   - **Printable keys** (letters, numbers, symbols)
-   - **Special keys** (Enter, Shift, Ctrl) in brackets  
-3. Saves all keystrokes in a **text file (key_log.txt)** for later review.  
-4. Stops running when **ESC key** is pressed.
-
----
-
-### 🧑‍💻 Features
-✅ Captures all keys pressed  
-✅ Saves logs in **real-time to a file**  
-✅ Runs until **ESC is pressed** to stop
-
----
-
-### 💻 Tech Used
+## 🧠 Skills Used:
 - Python
-- pynput library
+- GUI development (Tkinter)
+- Keyboard input handling (pynput)
+- File handling
+- Multithreading
 
----
+## 🚀 How to Run:
 
-### 📚 Skills Gained
-- Using **pynput** for input listening  
-- File handling in Python  
-- Understanding **ethical considerations** in cybersecurity tools
+### 🔸 GUI Version:
+1. Run the file keylogger_gui.py
+2. Click *Start Logging* to begin capturing keystrokes
+3. Switch to any other app (e.g., Notepad) and type
+4. Click *Stop Logging* to end
+5. Logs will be saved as key_log.txt on your Desktop
 
----
+## 🖼️ GUI Preview:
+<!-- Upload a screenshot in your repo and replace the file name below -->
+![Keylogger GUI Output](keylogger_gui_output.png)
 
-## 🔗 LinkedIn Post
-[Your LinkedIn post link here]
-
----
-
-
-### 🛠️ Requirements
-- Python 3.x
-- pynput library
-
+## 🔗 LinkedIn Post:
+[Paste your LinkedIn post link here]
 
