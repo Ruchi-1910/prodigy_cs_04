@@ -22,9 +22,6 @@ It captures user keystrokes and logs them to a .txt file stored on the Desktop. 
 4. Click *Stop Logging* to end
 5. Logs will be saved as key_log.txt on your Desktop
 
-## 🖼️ GUI Preview:
-<!-- Upload a screenshot in your repo and replace the file name below -->
-![Keylogger GUI Output](keylogger_gui_output.png)
 
 ## 🔗 LinkedIn Post:
 [Paste your LinkedIn post link here]
