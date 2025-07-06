@@ -49,15 +49,9 @@ This task helps understand **input monitoring** concepts used in cybersecurity r
 
 ---
 
-### ⚠️ Ethical Note
-This keylogger is built **only for educational purposes**. Running keyloggers on others’ devices or networks **without explicit permission is illegal and unethical**.
-
----
 
 ### 🛠️ Requirements
 - Python 3.x
 - pynput library
 
----
 
-✔️ **Note:** Replace `[Your LinkedIn post link here]` with your actual LinkedIn post URL once uploaded.
